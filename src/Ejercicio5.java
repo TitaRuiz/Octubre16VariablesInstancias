@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ejercicio5 {
+    //5.	Pedir dos números y decir cual es el mayor.
     public static void main(String[] args) {
-        //1.	Pedir dos números y decir si son iguales o no.
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Ingresa el primer número: ");
@@ -11,12 +11,12 @@ public class Ejercicio1 {
         System.out.print("Ingresa el segundo número: ");
         int numero2 = scanner.nextInt();
 
-        if(numero1 == numero2) {
-            System.out.println("Los números son iguales.");
+        if(numero1 > numero2) {
+            System.out.println(numero1 + " es mayor que " + numero2);
+        } else if(numero1 < numero2) {
+            System.out.println(numero2 + " es mayor que " + numero1);
         } else {
-            System.out.println("Los números no son iguales.");
+            System.out.println("Los números son iguales.");
         }
-        scanner.close();
-
     }
 }

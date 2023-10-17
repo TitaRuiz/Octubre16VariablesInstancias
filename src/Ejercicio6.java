@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ejercicio6 {
+    //6.	Pedir dos números y mostrarlos ordenados de mayor a menor
     public static void main(String[] args) {
-        //1.	Pedir dos números y decir si son iguales o no.
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Ingresa el primer número: ");
@@ -11,12 +11,12 @@ public class Ejercicio1 {
         System.out.print("Ingresa el segundo número: ");
         int numero2 = scanner.nextInt();
 
-        if(numero1 == numero2) {
-            System.out.println("Los números son iguales.");
-        } else {
-            System.out.println("Los números no son iguales.");
+        if(numero1 > numero2) {
+            int temp = numero1;
+            numero1 = numero2;
+            numero2 = temp;
         }
-        scanner.close();
 
+        System.out.println("Ordenados de mayor a menor: " + numero2 + ", " + numero1);
     }
 }

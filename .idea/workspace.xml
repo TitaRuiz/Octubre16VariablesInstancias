@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f61ff8-4966-4f84-9dc7-48ae56f9f580" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Octubre16VariablesInstancias.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercico3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="76f61ff8-4966-4f84-9dc7-48ae56f9f580" name="Changes" comment="Version 1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercico3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +30,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2WqjsTDNO1LjOEKpozxguHlX5N9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,7 +45,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2023/IFCD0609-CoreNetworks/Octubre_11_2023Incremto_If"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2023/Programación-Addeco/05_java_se/_03_19_2023_variables"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,6 +58,20 @@
       <option name="presentableId" value="Default" />
       <updated>1697467217458</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version 1">
+      <option name="closed" value="true" />
+      <created>1697478755175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697478755175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Version 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1" />
   </component>
 </project>
